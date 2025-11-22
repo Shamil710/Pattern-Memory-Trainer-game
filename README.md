@@ -4,6 +4,9 @@ A simple web-based **pattern memory game** inspired by the classic Simon Game.
 The player has to **remember and repeat an increasing sequence** of colors/sounds.  
 With each correct round, the sequence grows longer, making the game more challenging.
 
+### 🎮 Live Demo  
+👉 https://shamil710.github.io/Pattern-Memory-Trainer-game/
+
 ---
 
 ## 🎯 Game Objective
